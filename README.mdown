@@ -1,0 +1,4 @@
+Flask Blog 
+
+This project is all about building a Blog using flask python framework, 
+as an excercise of RealPython second course.
